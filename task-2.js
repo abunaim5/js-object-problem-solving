@@ -5,6 +5,6 @@ const car = {
     year: 2020,
 };
 console.log(car);
-propName = 'passenger capacity';
+const propName = 'passenger capacity';
 car[propName] = 5;
 console.log(car);
